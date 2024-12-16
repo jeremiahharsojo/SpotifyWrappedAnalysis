@@ -27,6 +27,8 @@ Add your extract path to the processor.py file
 
 Run the python file to get a .csv of your data
 
+    py processor.py
+
 Specify the date range you want in the SQL file (modify start and end variable)
 
 Run sqlite initialized with server.sql
