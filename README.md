@@ -4,12 +4,12 @@ Converts json files from Spotify's user data download into an SQLite compatible 
 IMPORTANT:
 The source code includes my raw data and .csv outputs, you can use this to verify that python and sqlite works on your machine.
 Please delete the .csv and RAW DATA folder before running the program, to minimize the risk of my data bleeding into yours
-DO NOT FORGET TO ADD THE PATH TO YOUR SPOTIFY DATA IN "processor.py"
-I can't tell you how to do this (I made this code in Windows) so please find how to do this yourself
-I CANNOT GUARANTEE THIS WORKS ON MACOS
+DO NOT FORGET TO ADD THE PATH TO YOUR SPOTIFY DATA IN "processor.py".
+I can't tell you how to do this (I made this code in Windows) so please find how to do this yourself.
+I CANNOT GUARANTEE THIS WORKS ON MACOS.
 
 REQUIRED:
-pandas and numpy python packages
+pandas and numpy python packages;
 SQLite Installed and added to PATH on Windows
 
 
