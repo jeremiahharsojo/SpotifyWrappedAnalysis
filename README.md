@@ -21,7 +21,7 @@ SQLite Installed and added to PATH on Windows
 STEPS:
 Get your data from https://www.spotify.com/us/account/privacy/
     
-      NOTE: request the account data from the previous year (or extended if you need to)
+      NOTE: request the account data from the previous year (DOESN'T WORK WITH EXTENDED)
       
 Add your extract path to the processor.py file
 
@@ -43,3 +43,6 @@ please sanitize this if you're going to share your source code.
 However, it's interesting to see what they have on you (they had my phone number from 5+ years ago).
 
 Please read the .sql and.py source code if you're interested in how it works. 
+
+Also, the extended data download spotify has that includes all your listening data won't work with this source code.
+I might fix this when I revisit this in the future. 
